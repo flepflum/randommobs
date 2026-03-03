@@ -8,7 +8,8 @@
 		"flepflum!"
 	],
 	"contact": {
-		"homepage": "https://github.com/flepflum"
+		"homepage": "https://github.com/flepflum",
+		"sources": "https://github.com/flepflum/randommobs"
 	},
 	"license": "ARR",
 	"icon": "assets/randommobs/bettericon.png",
