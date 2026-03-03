@@ -19,9 +19,7 @@
 			"net.randommobs.RandomMobs"
 		]
 	},
-	"mixins": [
-		"randommobs.mixins.json"
-	],
+
 	"depends": {
 		"fabricloader": ">=0.18.4",
 		"minecraft": "~1.21",
